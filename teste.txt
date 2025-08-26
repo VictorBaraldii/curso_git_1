@@ -1,5 +1,1 @@
-Testando 
-uma 
-Atualização
-de
- Arquivo
+Testando atualização do clone
